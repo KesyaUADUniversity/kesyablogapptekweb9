@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/kesyablogapptekweb9//_next/:path+",
+        "destination": "/kesyablogapptekweb9/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
