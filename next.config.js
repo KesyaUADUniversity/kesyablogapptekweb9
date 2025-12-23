@@ -2,7 +2,7 @@
 const nextConfig = {
   output: "export",
   basePath: "/kesyablogapptekweb9",
-  assetPrefix: "/kesyablogapptekweb9/",
+  assetPrefix: "/kesyablogapptekweb9",
   images: {
     unoptimized: true,
   },
